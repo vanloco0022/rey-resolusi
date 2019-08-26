@@ -1,5 +1,5 @@
 RAY RESOLUSI
 - Membuat website untuk projek
 - Konsisten untuk ngoding setiap hari selama 2 jam
-- Mau belajar desain
+- Membuat database
 - Expert dalam php
